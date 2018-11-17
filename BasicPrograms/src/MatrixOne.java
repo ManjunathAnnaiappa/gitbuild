@@ -10,7 +10,7 @@ public class MatrixOne {
 		
 		//creating another matrix to store a value
 		
-		int c[][]=new int[3][2];
+		int c[][]=new int[2][2];
 		
 		//adding and printing addition of 2 matrices    
 		for(int i=0;i<3;i++){    
